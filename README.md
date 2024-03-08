@@ -1,10 +1,10 @@
 ### Olá, seja bem vindo ! 👋
 
-Meu nome é Tarita, sou estudante de Análise e Desenvolvimento de Sistemas, e atualmente estou trabalhando com back-end.
+Meu nome é Tarita, sou estudante de Análise e Desenvolvimento de Sistemas, estou vindo para tecnologia após uma longa jornada na área jurídica. 
 
 
 #### Ferramentas e Tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" align=center/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" align=center/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" align=center/> 
              
 
 
